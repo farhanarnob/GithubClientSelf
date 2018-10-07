@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubClientSelf</string>
+    <string name="confirm_user_name">Confirm User Name</string>
+    <string name="github_user_name">Github\'s user name</string>
+</resources>
